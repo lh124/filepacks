@@ -40,6 +40,6 @@ public class Config {
     public static void main(String[] args) throws Exception {
         PackageUtils.createDirtories();
     }
-
+//测试一下
     //http://localhost:8882/yfjz/webService/updateFullData?pId=52242401&orgId=5224240101
 }
